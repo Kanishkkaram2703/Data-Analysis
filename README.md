@@ -1,4 +1,4 @@
-# Data-Analysis
+# Data-Visualizing 
 Exploring and Visualizing a Dataset Through Python /  Jupyter
 
 Exploring and visualizing a dataset in Python involves several steps to understand the data's structure, patterns, and insights. Here’s a brief explanation of the process:
